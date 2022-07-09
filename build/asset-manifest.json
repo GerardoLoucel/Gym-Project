@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gym-Project/static/css/main.20acbc28.css",
+    "main.js": "/Gym-Project/static/js/main.c4cbfe84.js",
+    "static/media/banner.png": "/Gym-Project/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/Gym-Project/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Gym-Project/index.html",
+    "main.20acbc28.css.map": "/Gym-Project/static/css/main.20acbc28.css.map",
+    "main.c4cbfe84.js.map": "/Gym-Project/static/js/main.c4cbfe84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.c4cbfe84.js"
+  ]
+}
